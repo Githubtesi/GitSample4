@@ -1,2 +1,2 @@
 print("sample")
-print("concrift2")
+print("concrift")
